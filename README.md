@@ -1,5 +1,4 @@
 # uhmm, helo?
-https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&fbclid=IwY2xjawHc1AxleHRuA2FlbQIxMQABHcQjJg_oNt1vzv08Pz8VGp60FW2jEZ57gcy_0oLYIyWJ33AfV6wuem0Atg_aem_YHEEKSToYa2-H0XFS5807A
 
 <p align="left">
 <a href="https://github.com/Fahril33">
